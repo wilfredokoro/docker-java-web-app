@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>https://44.192.94.26:4000/repository/fred-SNAPSHOT/</url>
+	      <url>http://44.192.94.26:4000/repository/fred-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
